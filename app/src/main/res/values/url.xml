@@ -1,0 +1,81 @@
+<resources>
+    <!--
+    "   &quot;
+    '   &apos;
+    <   &lt;
+    >   &gt;
+    &   &amp;  https://nitter.namazso.eu/
+    -->
+    <string-array name="instagram_c">
+        <item>https://bibliogram.snopyta.org/u/natgeo</item>
+        <item>https://bibliogram.pussthecat.org/u/natgeo</item>
+        <item>https://bibliogram.nixnet.services/u/natgeo</item>
+        <item>https://bibliogram.ethibox.fr/u/natgeo</item>
+        <item>https://insta.trom.tf/u/natgeo</item>
+    </string-array>
+
+    <string-array name="instagram_d">
+        <item>https://bibliogram.snopyta.org/u/natgeo</item>
+        <item>https://bibliogram.pussthecat.org/u/natgeo</item>
+        <item>https://bibliogram.nixnet.services/u/natgeo</item>
+        <item>https://bibliogram.ethibox.fr/u/natgeo</item>
+        <item>https://insta.trom.tf/u/natgeo</item>
+    </string-array>
+
+    <string-array name="twitter_1">
+        <item>https://nitter.pussthecat.org/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.pussthecat.org/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.pussthecat.org/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+        <item>https://nitter.nixnet.services/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.nixnet.services/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.nixnet.services/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+        <item>https://nitter.mailstation.de/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.mailstation.de/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.mailstation.de/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+        <item>https://nitter.cattube.org/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.cattube.org/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.cattube.org/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+        <item>https://nitter.skrep.in/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.skrep.in/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.skrep.in/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+        <item>https://nitter.tedomum.net/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.tedomum.net/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.tedomum.net/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+    </string-array>
+    <string-array name="twitter_2">
+        <item>https://nitter.pussthecat.org/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.pussthecat.org/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.pussthecat.org/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+        <item>https://nitter.nixnet.services/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.nixnet.services/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.nixnet.services/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+        <item>https://nitter.mailstation.de/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.mailstation.de/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.mailstation.de/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+        <item>https://nitter.cattube.org/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.cattube.org/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.cattube.org/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+        <item>https://nitter.skrep.in/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.skrep.in/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.skrep.in/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+        <item>https://nitter.tedomum.net/BallouxFrancois,supriyasahuias,Snowden,ballmatthew,Unexplained,__apf__,thatcks,jessfraz,mjg59,matthew_d_green,moxie</item>
+        <item>https://nitter.tedomum.net/justinschuh,SadhviBhagawati,carlheneghan,alexstamos,laparisa,VictoriaCoren,ShaneHuntley,mattblaze,mikko,briankrebs,reacharavindh,charltonbrooker,RealDMitchell,Kiely7,stephenfry,argvee,eriklindahl,LauraKalbag,evacide,stevesi,random_walker</item>
+        <item>https://nitter.tedomum.net/tqbf,makoshark,segphault,mrisher,benedictevans,benthompson,random_walker</item>
+
+    </string-array>
+
+
+
+
+</resources>
